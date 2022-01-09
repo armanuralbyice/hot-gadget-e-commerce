@@ -1,0 +1,58 @@
+.container{
+margin-bottom: 60px;
+}
+.carousel-item{
+padding: 10px 30px;
+}
+.buy-now{
+    background-color: black;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+.card-footer{
+    background: white;
+    text-align: center;
+    border: none;
+}
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.see-all{
+    color: coral;
+}
+.categories{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color:black ;
+    text-shadow: 2px 2px 4px lightgrey;
+}
+.c-4{
+    border: black;
+}
+.category{
+    text-align: center;
+}
+.bag{
+    border-radius: 10px 5px 10px 5px;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+.beauty{
+    border-radius: 10px 5px 10px 5px; 
+    box-shadow: 5px 5px 10px lightslategray;
+}
+.shoes{
+    border-radius: 10px 5px 10px 5px;
+    box-shadow: 5px 5px 10px lightslategray;   
+}
+.contact{
+    background-color: white;
+    border-radius: 10px;
+    height: 250px;
+    text-align: center;
+    padding: 60px;
+}
